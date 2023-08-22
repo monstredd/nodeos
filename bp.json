@@ -1,0 +1,79 @@
+{
+  "producer_account_name": "eossupportbp",
+  "org": {
+    "candidate_name": "EOS Support",
+    "website": "https://eossupport.io/",
+    "code_of_conduct":"http://news.eossupport.io/",
+    "ownership_disclosure":"",
+    "email":"",
+    "github_user":"",
+    "chain_resources": "",
+    "other_resources": [],
+    "branding":{
+      "logo_256":"",
+      "logo_1024":"",
+      "logo_svg":""
+    },
+    "location": {
+      "name": "United States",
+      "country": "US",
+      "latitude": 36.85111,
+      "longitude":  -76.28556
+    },
+    "social": {
+      "keybase": "",
+      "telegram": "",
+      "twitter": "https://twitter.com/eossupportio",
+      "github":"https://github.com/RoRo-TechnologyPLLC",
+      "youtube": "https://www.youtube.com/channel/UC4jiGUCMTFhdcNH2osCbOWA",
+      "facebook": "",
+      "hive": "",
+      "reddit": "",
+      "wechat":""
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "United States",
+        "country": "US",
+        "latitude": 36.85111,
+        "longitude": -76.28556
+      },
+      "full": false,
+      "node_type": "producer",
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "name": "United States",
+        "country": "US",
+        "latitude": 36.85111,
+        "longitude": -76.28556
+      },
+      "full": false,
+      "node_type":"seed",
+      "p2p_endpoint": "api.eossupport.io:9876",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "name": "United States",
+        "country": "US",
+        "latitude": 36.85111,
+        "longitude": -76.28556
+      },
+      "full": false,
+      "node_type":"query",
+      "p2p_endpoint": "",
+      "api_endpoint": "http://api.eossupport.io",
+      "ssl_endpoint": "https://api.eossupport.io",
+      "features": [
+        "chain_api"
+      ]
+    }
+  ]
+}
