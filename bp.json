@@ -55,7 +55,7 @@
       },
       "full": false,
       "node_type":"seed",
-      "p2p_endpoint": "api.eossupport.io:9876",
+      "p2p_endpoint": "p2p.eossupport.io:9876",
       "api_endpoint": "",
       "ssl_endpoint": ""
     },
