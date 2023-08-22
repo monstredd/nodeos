@@ -3,16 +3,16 @@
   "org": {
     "candidate_name": "EOS Support",
     "website": "https://eossupport.io/",
-    "code_of_conduct":"http://news.eossupport.io/",
-    "ownership_disclosure":"",
-    "email":"",
-    "github_user":"",
+    "code_of_conduct":"http://news.eossupport.io/terms",
+    "ownership_disclosure":"https://eossupport.io/policy",
+    "email":"contact@eossupport.io",
+    "github_user":"Eossupport",
     "chain_resources": "",
     "other_resources": [],
     "branding":{
-      "logo_256":"",
-      "logo_1024":"",
-      "logo_svg":""
+      "logo_256":"https://eossupport.io/images/eossupport_logo_256.png",
+      "logo_1024":"https://eossupport.io/images/eossupport_logo_1024.png",
+      "logo_svg":"https://eossupport.io/images/eossupport_logo_svg.svg"
     },
     "location": {
       "name": "United States",
